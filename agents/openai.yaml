@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consulting PPT Creator"
+  short_description: "Create polished consulting-style business decks"
+  default_prompt: "Use $consulting-ppt-creator to create a polished consulting-style PowerPoint for my topic."
